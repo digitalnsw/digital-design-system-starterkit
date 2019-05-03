@@ -30,7 +30,7 @@ The starter pack uses npm (node package manager) to set up a local development e
 1. You should now be ready to start your local server by running `npm run watch`. This will watch for changes on `*.scss` files, create new `*.css` files and refresh the browser.
 
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#Development-environment)**
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -53,7 +53,7 @@ This set up allows you to modify the variables in the Design System file from th
 The `docs` folder in the contains all the files required to publish a website. The `index.html` file references the `main.css` file and `script.min.js` assets to generate the page. We name the folder `docs` because [github pages](https://pages.github.com/) uses the docs folder to host static websites.
 
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#Development-environment)**
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -78,6 +78,6 @@ If you are using the dark theme for the header, please replace the logo image UR
 Copyright (c) Commonwealth of Australia. With the exception of the Commonwealth Coat of Arms and where otherwise noted, this work is licensed under the [MIT license](https://raw.githubusercontent.com/govau/design-system-starter/master/LICENSE).
 
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#Development-environment)**
 
 #
