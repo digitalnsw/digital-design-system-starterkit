@@ -44,10 +44,12 @@
 	],
 	"license": "MIT",
 	"devDependencies": {
-		"browser-sync": "^2.24.7",
+		"browser-sync": "^2.26.5",
 		"onchange": "^4.1.0"
 	},
 	"dependencies": {
+		"@digital.nsw/core": "latest",
+		"@digital.nsw/header": "latest",
 		"@gov.au/accordion": "latest",
 		"@gov.au/animate": "latest",
 		"@gov.au/body": "latest",
@@ -59,7 +61,6 @@
 		"@gov.au/direction-links": "latest",
 		"@gov.au/footer": "latest",
 		"@gov.au/grid-12": "latest",
-		"@digital.nsw/header": "latest",
 		"@gov.au/headings": "latest",
 		"@gov.au/inpage-nav": "latest",
 		"@gov.au/keyword-list": "latest",
@@ -73,10 +74,9 @@
 		"@gov.au/skip-link": "latest",
 		"@gov.au/tags": "latest",
 		"@gov.au/text-inputs": "latest",
-		"@digital.nsw/core": "latest",
 		"autoprefixer": "^9.0.1",
 		"node-sass": "^4.9.2",
-		"postcss-cli": "^6.0.0"
+		"postcss-cli": "^6.1.2"
 	},
 	"pancake": {
 		"auto-save": true,
