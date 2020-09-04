@@ -75,7 +75,7 @@
 		"@gov.au/text-inputs": "latest",
 		"@digital.nsw/core": "latest",
 		"autoprefixer": "^9.0.1",
-		"node-sass": "^4.9.2",
+		"node-sass": "^4.13.1",
 		"postcss-cli": "^6.0.0"
 	},
 	"pancake": {
